@@ -13,12 +13,13 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
+token=NTI3OTQ1ODQ4MjQ4NzI5NjEw.Dwbnkg.hEAXjdy3K4JbNYuUsW2CfogG8AM
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=362936427627151370
+owner=395754136030937089
 
 
 // This sets the prefix for the bot
@@ -27,7 +28,7 @@ owner=362936427627151370
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=3
+prefix=+
 
 
 /////////////////////////////////////////////////////////////
@@ -93,7 +94,8 @@ prefix=3
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 //
-//stayinchannel=true
+//
+stayinchannel=true
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
